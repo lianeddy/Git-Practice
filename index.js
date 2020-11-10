@@ -1,5 +1,7 @@
 // Hello World
 
-function tambah() {}
+function tambah() {
+  return 2 + 1;
+}
 
 function kurang() {}
