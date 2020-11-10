@@ -1,7 +1,7 @@
 // Hello World
 
-function tambah() {}
-
-function kurang() {
-  return 2 - 1;
+function tambah() {
+  return 2 + 1;
 }
+
+function kurang() {}
