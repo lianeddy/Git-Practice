@@ -6,4 +6,5 @@ function tambah() {
 
 function kurang() {
   return 5 - 2;
+  // ini function kurang
 }
